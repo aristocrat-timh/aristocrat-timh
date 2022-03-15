@@ -1,0 +1,19 @@
+{
+  "name": "aristocrat-timh",
+  "version": "1.0.0",
+  "description": "Tim's personal site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristocrat-timh/aristocrat-timh.git"
+  },
+  "author": "Tim Hunold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aristocrat-timh/aristocrat-timh/issues"
+  },
+  "homepage": "https://github.com/aristocrat-timh/aristocrat-timh#readme"
+}
